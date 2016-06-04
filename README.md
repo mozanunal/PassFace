@@ -3,6 +3,7 @@ Face recognizing program develop using EmguCV (OpenCV wrapper). It is possible t
 
 Video:
 https://www.youtube.com/watch?v=d6LI42NEZZY
+
 Source Code:
 https://github.com/mozanunal/PassFace
 
