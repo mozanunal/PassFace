@@ -8,7 +8,7 @@ Source Code:
 https://github.com/mozanunal/PassFace
 
 Blog post about this program:
-http://mozanunal.blogspot.com.tr/2016/06/passface-face-recognition-using-opencv.html
+http://mozanunal.com/2016/06/passface-face-recognition-using-opencv
 
 You should added opencv files to bin folder. In this project Opencv 2.9.0 is used. In bin folder:
 
