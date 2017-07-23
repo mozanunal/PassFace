@@ -14,3 +14,5 @@ You should added opencv files to bin folder. In this project Opencv 2.9.0 is use
 
 * x86/ opencv files for x86 architecture
 * x64/ opencv files for x64 architecture
+
+[Download opencv from here](https://drive.google.com/open?id=0B5j__Lyt9ozbVUdJLUM1RVA0NlE)
